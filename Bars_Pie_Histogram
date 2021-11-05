@@ -36,3 +36,5 @@ myexplode = [0.2, 0, 0, 0]
 
 plt.pie(mylist, labels = mylabels, colors = mycolors, explode = myexplode, shadow = True)
 plt.show()
+
+![pie](https://user-images.githubusercontent.com/45541129/140533956-db5bcc55-fd04-40f4-830e-924c8d6675dd.png)
